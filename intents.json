@@ -1,0 +1,14 @@
+{"intents": [
+    {"tag":"greeting", 
+     "patterns": ["Hi there!", "How are you?", "Is anyone there?", "Hey!", "Hola!", "Hello!"],
+     "responses": ["Hello! Thanks for asking", "Good to see you again!", "Hey there! How can I help you?"]
+    },
+    {
+      "tag":"goodbye",
+      "patterns": ["Bye!", "See you later!", "Good bye!", "Nice chatting to you!", "Till next time!"],
+      "responses": ["See you!", "Have a  nice day!", "Bye! Come back again soon!", "Have a good day!"]
+    }
+  ]
+}
+
+    
